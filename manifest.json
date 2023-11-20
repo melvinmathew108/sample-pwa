@@ -1,20 +1,22 @@
 {
-    "name" : "Sample PWA" ,
-    "short_name" : "SPWA" ,
-    "start_url" : "." ,
-    "background_color" : "blue" ,
-    "theme_color" : "#0083ff" ,
-    "display" : "standalone" ,
-    "icons" : [
-        {
-            "src" : "assets/logo-small.png" ,
-            "sizes" : "64x64",
-            "type" : "image/png" 
-        },
-        {
-            "src" : "assets/logo-large.png" ,
-            "sizes" : "512x512",
-            "type" : "image/png" 
-        }
-    ]
-}
+    "name": "Sample PWA",
+    "short_name": "SPWA",
+    "start_url": ".",
+    "background_color": "#ffffff",
+    "theme_color": "#0083ff",
+    "display": "standalone",
+    "icons": [
+      {
+        "src": "assets/logo-small.png",
+        "sizes": "64x64",
+        "type": "image/png"
+      },
+      {
+        "src": "assets/logo-large.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "lang": "en",
+    "orientation": "portrait"
+  }
